@@ -16,28 +16,28 @@ Machine: i7-6700k || 16GB-DDR4-RAM || SSD
 
 #Express:
 
-![image info](./benchmarks/express.png)
+![image info](./benchmarks/express.PNG)
 
 #Fastify:
 
-![image info](./benchmarks/fastify.png)
+![image info](./benchmarks/fastify.PNG)
 
 #Hapi:
 
-![image info](./benchmarks/hapi.png)
+![image info](./benchmarks/hapi.PNG)
 
 #HTTP Server:
 
-![image info](./benchmarks/http_server.png)
+![image info](./benchmarks/http_server.PNG)
 
 #Koa:
 
-![image info](./benchmarks/koa.png)
+![image info](./benchmarks/koa.PNG)
 
 #Polka:
 
-![image info](./benchmarks/polka.png)
+![image info](./benchmarks/polka.PNG)
 
 #Rayo:
 
-![image info](./benchmarks/rayo.png)
+![image info](./benchmarks/rayo.PNG)
