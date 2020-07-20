@@ -1,0 +1,16 @@
+{
+  "name": "eventrequest-benchmarks",
+  "version": "1.0.0",
+  "description": "Benchmarks for Event Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Genov",
+  "license": "ISC",
+  "dependencies": {
+    "event_request": "^22.1.2",
+    "express": "^4.17.1",
+    "rayo": "^1.3.5"
+  }
+}
