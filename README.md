@@ -9,26 +9,35 @@ Machine: i7-6700k || 16GB-DDR4-RAM || SSD
 
 #Stress test with no processing:
 
+
 ##Event Request:
+
 ![image info](./benchmarks/event_request.png)
 
 ##Express:
+
 ![image info](./benchmarks/express.png)
 
 ##Fastify:
+
 ![image info](./benchmarks/fastify.png)
 
 ##Hapi:
+
 ![image info](./benchmarks/hapi.png)
 
 ##HTTP Server:
+
 ![image info](./benchmarks/http_server.png)
 
 ##Koa:
+
 ![image info](./benchmarks/koa.png)
 
 ##Polka:
+
 ![image info](./benchmarks/polka.png)
 
 ##Rayo:
+
 ![image info](./benchmarks/rayo.png)
