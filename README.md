@@ -1,5 +1,5 @@
 # EventRequest-Benchmarks
-Benchmarks for EventRequest ( NOTE: THESE ARE FOR 29.4.0, 30.0.1 shows even better results than this )
+Benchmarks for EventRequest ( NOTE: THESE ARE FOR 29.4.0, 30.0.1 shows even better results than this, you can test for yourself )
 
 The tests are performed with [**autocannon**](https://www.npmjs.com/package/autocannon).
 
